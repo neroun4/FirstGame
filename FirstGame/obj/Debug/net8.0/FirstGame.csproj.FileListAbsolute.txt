@@ -1,0 +1,14 @@
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\FirstGame\bin\Debug\net8.0\FirstGame.exe
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\FirstGame\bin\Debug\net8.0\FirstGame.deps.json
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\FirstGame\bin\Debug\net8.0\FirstGame.runtimeconfig.json
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\FirstGame\bin\Debug\net8.0\FirstGame.dll
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\FirstGame\bin\Debug\net8.0\FirstGame.pdb
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\FirstGame\obj\Debug\net8.0\FirstGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\FirstGame\obj\Debug\net8.0\FirstGame.AssemblyInfoInputs.cache
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\FirstGame\obj\Debug\net8.0\FirstGame.AssemblyInfo.cs
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\FirstGame\obj\Debug\net8.0\FirstGame.csproj.CoreCompileInputs.cache
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\FirstGame\obj\Debug\net8.0\FirstGame.dll
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\FirstGame\obj\Debug\net8.0\refint\FirstGame.dll
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\FirstGame\obj\Debug\net8.0\FirstGame.pdb
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\FirstGame\obj\Debug\net8.0\FirstGame.genruntimeconfig.cache
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\FirstGame\obj\Debug\net8.0\ref\FirstGame.dll
